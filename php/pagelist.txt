@@ -22,7 +22,7 @@ $files = scandir(getcwd());
 foreach($files as $value){
     if($value{0} != "." && is_dir($value) && $value != "php" && $value != "jscode" && $value != "data" && $value != "html" && $value != "symbols" && $value != "fonts" && $value != "symbol" && $value != "icons" && $value != "iconsymbols" && $value != "uploadimages"){
                 
-        echo "\n<li><a href = \"".$value."/\">".$value."/</a><img class = \"button\" style = \"width:30px\" src = \"iconsymbols/deletebutton.svg\"></li>\n";
+        echo "\n<li><a href = \"".$value."/\">".$value."/</a></li>\n";
         
     }
 }
@@ -48,6 +48,7 @@ inputs[1].onchange = function() {
 }
 
     
+/*
 deletebuttons = document.getElementById("mainlist").getElementsByTagName("IMG");
 
 for(var index = 0;index < deletebuttons.length;index++){
@@ -62,7 +63,7 @@ for(var index = 0;index < deletebuttons.length;index++){
 
     }
 }
-
+*/
 </script>
 <style>
     body{

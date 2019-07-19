@@ -33,10 +33,13 @@
         "zoomouticon.svg"
     ],
     "symbols": [
+        "artbox.svg",
         "circle.svg",
+        "layout.svg",
         "longarrow.svg",
         "longthinarrow.svg",
         "shortarrow.svg",
+        "template.svg",
         "x.svg"
     ],
     "data": [
@@ -57,6 +60,7 @@
         "mksymbol.txt",
         "pagelist.txt",
         "replicator.txt",
+        "replicator_artbox.txt",
         "text2php.txt",
         "upload.txt"
     ]

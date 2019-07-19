@@ -6,7 +6,7 @@
         "angle": 0,
         "text": "fabrication",
         "href": "",
-        "src": "http://localhost:8000/symbols/shortarrow.svg"
+        "src": "symbols/shortarrow.svg"
     },
     {
         "x": 0.4439140811455847,
@@ -33,7 +33,7 @@
         "angle": 87,
         "text": "fabrication",
         "href": "",
-        "src": "http://localhost:8000/symbols/longarrow.svg"
+        "src": "symbols/longarrow.svg"
     },
     {
         "x": 0.26252983293556087,
