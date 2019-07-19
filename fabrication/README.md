@@ -1,3 +1,5 @@
+## [up a level](../)
+
 # Fabrication
 
 If you don't have one, create a 6 inch equilateral triangle template, which can be laminated paper, cardboard, or plastic.
@@ -6,12 +8,12 @@ If you don't have one, create a 6 inch equilateral triangle template, which can 
 
 Use template, sharpie, and box cutter to create 6 equilateral triangle cutouts and 2 diamonds made up from equilateral triangles, all cut out of double corrugated cardboard.
 
+![](../symbols/layout.svg)
 
 Use art supplies and paper to create replications of the basic art elements of the media: tools, feedstock, fabrication and replication.  Clear-tape these to diamonds and triangles, make a few.  Use art supplies and paper to make custom panels for the rest of the panels based on what you're doing, where you are, why you're doing this, what it means to you.
 
 Assemble it all into ArtBox.  
 
-![](../symbols/layout.svg)
 
 ![](../symbols/artbox.svg)
 

@@ -9,15 +9,6 @@
         "src": "http://localhost:8000/symbols/shortarrow.svg"
     },
     {
-        "x": 0.38902147971360385,
-        "y": 0.46420047732696895,
-        "w": 0.779236276849642,
-        "angle": 0,
-        "text": "fabrication",
-        "href": "fabrication/index.html",
-        "src": ""
-    },
-    {
         "x": 0.4439140811455847,
         "y": 0.6133651551312649,
         "w": 0.6718377088305489,
@@ -70,5 +61,14 @@
         "text": "symbol/",
         "href": "symbol/symbol.html",
         "src": "tools/iconsymbols/symbolicon.svg"
+    },
+    {
+        "x": 0.38902147971360385,
+        "y": 0.46420047732696895,
+        "w": 0.779236276849642,
+        "angle": 0,
+        "text": "fabrication",
+        "href": "fabrication/index.html",
+        "src": ""
     }
 ]

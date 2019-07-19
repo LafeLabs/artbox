@@ -1,3 +1,6 @@
+## [up a level](../)
+
+
 # Replicator
 
 This first instance of ArtBox was created by Lafe, contact me at lafelabs@gmail.com to get more information on copying all this.  I can come meet if you're in the DC/Baltimore metro area, otherwise I can email and skype as needed to clone this technology.
